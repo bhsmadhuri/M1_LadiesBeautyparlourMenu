@@ -15,7 +15,7 @@ jobs:
     
   
     - name: make test
-      run: make -C 3_Implementation/ test/test_PB.c
+      run: make -C 3_Implementation/ test/test_BM.c
     - name: Valgrid
       run: 
           echo Add other actions to build,
