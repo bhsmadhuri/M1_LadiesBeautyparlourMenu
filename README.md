@@ -1,2 +1,3 @@
 [![Build_CI - Linux](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml)
 [![Bulid CI - windows](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml)
+[![Code Quality - Cppcheck](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml)
