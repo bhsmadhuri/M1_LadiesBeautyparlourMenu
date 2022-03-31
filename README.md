@@ -7,3 +7,4 @@
 ![Codiga grade](https://api.codiga.io/project/32267/score/svg)
 ![Codiga grade](https://api.codiga.io/project/32267/status/svg)
 [![Analysis](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/analysis.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/analysis.yml)
+[![Unit Testing - Unity](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/unit_test.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/unit_test.yml)
