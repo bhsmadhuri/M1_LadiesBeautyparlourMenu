@@ -1,0 +1,1 @@
+[![Build_CI - Linux](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml)
