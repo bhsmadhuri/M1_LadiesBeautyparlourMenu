@@ -1,14 +1,14 @@
 # Name of the project
-PROJECT_NAME = BeautyParlour
+PROJECT_NAME = LadiesBeautyParlourMenu
  
 # Output directory
 BUILD = build
 
 # All source code files
-SRC =src/FunctionsPow.c
+SRC =src/functionmain.c
 
 # All test source files
-TEST_SRC = test/test_ebook.c\
+TEST_SRC = test/test_BM.c\
 unity/unity.c
 
 # All include folders with header files
