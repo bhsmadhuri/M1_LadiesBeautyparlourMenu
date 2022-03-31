@@ -2,3 +2,4 @@
 [![Bulid CI - windows](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml)
 [![Code Quality - Cppcheck](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml)
 [![CodeQuality-Valgrind](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Valgrind.yml)
+[![Git Inspector](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/git_inspector.yml)
