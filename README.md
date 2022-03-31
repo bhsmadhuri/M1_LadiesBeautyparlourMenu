@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93e7736639f54a918246b65320415279)](https://app.codacy.com/gh/bhsmadhuri/M1_LadiesBeautyparlourMenu?utm_source=github.com&utm_medium=referral&utm_content=bhsmadhuri/M1_LadiesBeautyparlourMenu&utm_campaign=Badge_Grade_Settings)
 [![Build_CI - Linux](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/linux.yml)
 [![Bulid CI - windows](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/Windows.yml)
 [![Code Quality - Cppcheck](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml/badge.svg)](https://github.com/bhsmadhuri/M1_LadiesBeautyparlourMenu/actions/workflows/code-check.yml)
