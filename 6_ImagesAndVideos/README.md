@@ -1,6 +1,6 @@
 ## Step 1 :
  * It shows user to enter the details like Name,  email id, Address, Mobile Number etc...
- * 
+ 
 ![01](https://user-images.githubusercontent.com/101176652/161307234-fe963f26-9122-42e3-a2c6-8a9219c37a76.png)
 
 ## Step 2 :
