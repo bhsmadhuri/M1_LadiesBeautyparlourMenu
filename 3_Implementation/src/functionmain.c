@@ -5,7 +5,7 @@ struct PersonalDetails B;
 char cont='y';
 void details()
 {
-    printf("\t\tThis Program is Implemented in C Programming\n");
+    //printf("\t\tThis Program is Implemented in C Programming\n");
     printf("\t\tWELCOME TO LADIES BEAUTY PARLOUR\n");
     printf("Enter Your Name:\n");
     fgets(B.name, sizeof(B.name), stdin);
