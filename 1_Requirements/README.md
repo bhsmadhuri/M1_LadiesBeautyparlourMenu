@@ -64,5 +64,5 @@ Above are the list and it has sub parts, user can login and check the prices of 
 ### Low level Requirements
 | ID | Description | HLR ID | Status |
 | ------ | --------- | ------ |  ------ |
-| LR01 | User need to select one of the category in the main menu and then it will shown sub category, we need to select oneoption | HR02 | Implemented |
+| LR01 | User need to select one of the category in the main menu and then it will shown sub category, we need to select one option | HR02 | Implemented |
 | LR02 | The selected Category Price with amount is displayed on the screen | LR01 | Implemented | 
